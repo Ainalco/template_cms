@@ -1,5 +1,5 @@
 Create the Database:
-Create a MySQL database named onlinestore and import the provided .sql file into it.
+Create a MySQL database named onlinestore and import the provided onlinestore.sql file into it.
 
 Run a Local Server:
 Start your preferred PHP development server (such as XAMPP, Laragon, or WAMP).
